@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Anti-Fraud System/task/build/
+/Anti-Fraud System/task/build/classes/java/main/
+/Anti-Fraud System/task/build/classes/java/test/
